@@ -1,5 +1,5 @@
 # PHP Study: Closures and Arrow Functions
-[🇧🇷 Leia em Português](./README.pt-BR.md)
+[🇧🇷 Leia em Português](./README.pt-br.md)
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.2-blue)
 ![Status](https://img.shields.io/badge/Challenge-Daily-green)
